@@ -52,10 +52,7 @@ In this task, you will explore different flow types in Azure AI Foundry by creat
 
 <details>
 <summary><strong>Python</strong></summary>
-    
-1. Navigate to `Python>src` directory and open **.env (1)** file.
 
-     ![](./media/image_026.png)
 
 1. Navigate to `Python>src>plugins` directory and create a new file named **ImageGenerationPlugin.py (1)**.
 
